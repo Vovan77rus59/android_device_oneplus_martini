@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_martini.mk
+    $(LOCAL_DIR)/derp_martini.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_martini-user \
-    lineage_martini-userdebug \
-    lineage_martini-eng
+    derp_martini-user \
+    derp_martini-userdebug \
+    derp_martini-eng
