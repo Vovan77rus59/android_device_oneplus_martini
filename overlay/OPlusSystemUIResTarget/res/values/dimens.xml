@@ -12,7 +12,7 @@
     <dimen name="status_bar_padding_start">0px</dimen>
 
     <!-- the padding on the end of the statusbar -->
-    <dimen name="status_bar_padding_end">16px</dimen>
+    <dimen name="status_bar_padding_end">0px</dimen>
 
     <!-- the padding on the top of the statusbar (usually 0) -->
     <dimen name="status_bar_padding_top">11px</dimen>
@@ -27,18 +27,5 @@
     <dimen name="keyguard_carrier_text_margin">@dimen/status_bar_padding_start</dimen>
 
     <dimen name="keyguard_indication_margin_bottom">300px</dimen>
-
-    <!-- Alert Slider UI -->
-    <dimen name="tri_state_down_dialog_position">420px</dimen>
-    <dimen name="tri_state_down_dialog_position_l">300px</dimen>
-    <dimen name="tri_state_middle_dialog_position">280px</dimen>
-    <dimen name="tri_state_middle_dialog_position_l">300px</dimen>
-    <dimen name="tri_state_up_dialog_position">140px</dimen>
-    <dimen name="tri_state_up_dialog_position_l">300px</dimen>
-    <dimen name="tri_state_up_dialog_position_deep">24px</dimen>
-    <dimen name="tri_state_up_dialog_position_deep_land">24px</dimen>
-
-    <!-- Location on the screen of the center of the physical power button. -->
-    <dimen name="physical_power_button_center_screen_location_y">900px</dimen>
 
 </resources>
