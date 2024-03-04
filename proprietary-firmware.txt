@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from OnePlus 9RT (MT2111_13.1.0.593(EX01)).
+## are from OnePlus 9RT (MT2111_14.0.0.212(EX01)).
 
 abl.img;AB
 aop.img;AB
@@ -22,5 +22,6 @@ shrm.img;AB
 splash.img;AB
 tz.img;AB
 uefisecapp.img;AB
+vm-bootsys.img;AB
 xbl.img;AB
 xbl_config.img;AB

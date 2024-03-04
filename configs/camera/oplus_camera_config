@@ -1188,6 +1188,48 @@
   "Type": "Float",
   "Count": "1",
   "Value": "2.0"
+},
+
+{
+  "VendorTag": "com.oplus.camera.support.activity.rotate",
+  "Type": "Byte",
+  "Count": "1",
+  "Value": "1"
+},
+
+{
+  "VendorTag": "com.oplus.feature.ai.scene.hint.show.support",
+  "Type": "Byte",
+  "Count": "1",
+  "Value": "1"
+},
+
+{
+  "VendorTag": "com.oplus.feature.face.beauty.custom.menu.refinement.support",
+  "Type": "Byte",
+  "Count": "1",
+  "Value": "0"
+},
+
+{
+  "VendorTag": "com.oplus.camera.support.early.start.gallery",
+  "Type": "Byte",
+  "Count": "1",
+  "Value": "0"
+},
+
+{
+  "VendorTag": "com.oplus.support.professional.mode.in.headline",
+  "Type": "Byte",
+  "Count": "1",
+  "Value": "0"
+},
+
+{
+  "VendorTag": "com.oplus.camera.pro.2x.none.switch.sensor",
+  "Type": "Byte",
+  "Count": "1",
+  "Value": "1"
 }
 
 ]
